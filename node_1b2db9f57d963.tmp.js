@@ -16,10 +16,7 @@
             </div>
             <div id="formulario">
                 <h1>Login</h1>
-                <p>Seja bem-vindo(a) novamente. Faça login para acessar sua conta e poder fazer as configuações no seu ambiente.</p>
-                <form action="login.php" method="post">
-
-                </form>
+                <p>Seja bem-vind0(a) novamente. Fa</p>
 
             </div>
 
